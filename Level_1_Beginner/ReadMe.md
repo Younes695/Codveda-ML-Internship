@@ -48,7 +48,7 @@ Located in: `Task_2_Linear_Regression/`
 ## 📊 Visual Results
 Here is the comparison between Actual Prices vs. Predicted Prices:
 
-![Linear Regression Graph](./Level_1_Beginner/Task_2_Linear_Regression/linear_reg_plot.png)
+![Linear Regression Graph](./Task_2_Linear_Regression/linear_reg_plot.png)
 
 *(Note: The black dashed line represents the ideal prediction, while red dots are the actual test values)*
 
